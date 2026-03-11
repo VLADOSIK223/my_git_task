@@ -26,4 +26,3 @@ if (count($parts) == 2 && is_numeric($parts[0]) && is_numeric($parts[1])) {
 } else {
     echo "Ошибка: введите два числа через пробел.\n";
 }
-?>

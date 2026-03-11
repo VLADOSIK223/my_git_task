@@ -16,4 +16,3 @@ if ($input === $reversed) {
 } else {
     echo "Результат: Число $input — НЕ палиндром. \n";
 }
-?>

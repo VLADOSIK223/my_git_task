@@ -25,4 +25,3 @@ if ($isZigzag) {
 } else {
     echo "Это не зигзаг. ";
 }
-?>
