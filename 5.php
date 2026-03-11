@@ -7,6 +7,7 @@ $matrix = [
 ];
 
 $sum = 0;
+
 $n = count($matrix);
 
 for ($i = 0; $i < $n; $i++) {
