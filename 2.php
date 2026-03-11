@@ -10,6 +10,7 @@ if ($sum >= 10000) {
     
     $discount = 10;
     $finalSum = $sum * 0.9;
+    
 } else {
    
     $discount = 0;
