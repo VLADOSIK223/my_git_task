@@ -10,6 +10,7 @@ $reversed = strrev($input);
 
 echo "--------------------------\n";
 
+
 if ($input === $reversed) {
     echo "Результат: Число $input — палиндром! \n";
 } else {
