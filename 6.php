@@ -1,5 +1,6 @@
 <?php
 $input = readline("Введите числа через пробел: ");
+
 $arr = explode(" ", $input);
 
 if (count($arr) < 2) {
